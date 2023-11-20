@@ -1,0 +1,173 @@
+.background {
+    background-color: rgb(17, 155, 209); /* Replace with your desired background color */
+    width: 100%; /* Set a width and height for the div */
+    height: 50px;
+  }
+
+  nav a{
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    font-family: normal bold 15px / 19px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    
+    }
+
+    nav {
+    text-align: end;
+
+   
+    }
+      
+  
+  
+  nav a:hover{
+    color: green;
+    border: 1px ;
+  }
+
+.picsum-img-wrapper img {
+    background-size: cover;
+    width: 100%;
+  margin-top: 2%;
+    
+}
+
+#img5{
+    height: 90px;
+    width: 100px;
+    
+    margin-right: 22%;
+    background: transparent;
+   
+}
+.example-card{
+    height: 400px;
+    width:400px;
+    margin-top: 100px;
+    margin-left: 40%;
+}
+
+.example-card p{
+    font-size: larger;
+    font-weight: 500;
+    margin-top: 20px;
+    text-align: center;
+    background-color: grey;
+
+}
+
+.example-card2{
+    height: 400px;
+    width:400px;
+   
+
+    
+}
+
+.example-card2 p{
+    font-size: larger;
+    font-weight: 500;
+    margin-top: 20px;
+    text-align: center;
+    background-color: grey ;
+
+}
+
+
+.card{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-top: 80px;
+  }
+  .card2{
+    display: inline-block;
+    margin-left: 120px;
+    margin-right: 6px;
+    margin-bottom: 30px;
+    margin-top: 80px;
+
+  }
+  .card3{
+    display: inline-block;
+    margin-left: 140px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-top: 80px;
+
+  }
+
+  .card2 p{
+    margin-top: 70px;
+  }
+  .card3 p{
+    margin-top: 60px;
+  }
+
+
+    #fs2{
+    margin-left: 250px;
+    margin-top: 20px;
+  }
+  #two{
+    font-size: larger;
+  }
+  #same{
+    font-size: larger;
+  }
+  #same2{
+    color: white;
+  }
+
+ 
+  #p {
+    text-align: center; 
+    margin-top: 50px;
+    text-decoration: underline gray;
+    font-size:xx-large;
+    font-weight: 500;
+    color: #FF5733;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+  }
+ 
+
+#collage{
+    margin-left: 0;
+    padding: 0;
+    margin-top: 40px;
+    margin-bottom: 20px;
+
+}
+.container img{
+    margin-top: 20px;
+    margin-left: 0;
+    
+}
+#pune{
+    margin-left: 100px;
+    margin-top: 60px;
+    font-family: normal bold 15px / 19px "Roboto", Helvetica, Arial, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+#p {
+  animation: pulse 4s infinite;
+}
+@keyframes pulse {
+  0% {
+    transform: scale(0.5); 
+  }
+  50% {
+    transform: scale(0.7);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+
+
